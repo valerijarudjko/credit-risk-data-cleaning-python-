@@ -54,6 +54,7 @@ print(df.head())
 ## Importing libraries:
 ```bash
 pip install pandas
+pip install openpyxl
 ```
 ```python
 import pandas as pd
